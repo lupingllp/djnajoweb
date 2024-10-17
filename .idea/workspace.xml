@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38de5067-758f-453e-b764-a2bcd8a62f40" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/djangoWebproject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoWebproject/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoWebproject/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoWebproject/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoWebproject/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoWebproject/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +81,7 @@
       <updated>1729083783048</updated>
       <workItem from="1729083784394" duration="783000" />
       <workItem from="1729138988895" duration="160000" />
+      <workItem from="1729139215083" duration="650000" />
     </task>
     <servers />
   </component>
